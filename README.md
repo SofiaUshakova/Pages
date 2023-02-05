@@ -21,11 +21,11 @@
 
 
 ## Сми обомне:
-Обомне пишут везде, даже в [Википедии!][def]
+Обо мне пишут везде, даже в [Википедии!][def]
 
 [def]: https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%BE_(%D0%9C%D0%B0%D1%82%D1%80%D0%B8%D1%86%D0%B0)
 
 ## Моё фото:
 
-![фото][photo]
-[photo]://https://upload.wikimedia.org/wikipedia/ru/thumb/4/4c/Neo2.jpg/274px-Neo2.jpg
+![image](https://user-images.githubusercontent.com/75698374/216813408-eb8a02fa-6e2c-4e41-b9fe-8c8e79f1025b.png)
+
